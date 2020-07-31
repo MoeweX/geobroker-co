@@ -1,0 +1,6 @@
+# When started with this configuration, GeoBroker does not do any GeoChecks.
+[server]
+brokerId = "broker_nogeo"
+
+    [server.mode]
+    name = "single_noGeo"
